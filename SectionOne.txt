@@ -5,4 +5,9 @@
     Exploitation 
     Installation
     Command & Control(C2)
-    
+    Actions on Objectives
+
+    Kill chain Analysis - can be to used identify a defensive
+
+    MITRE ATT&CK Framework
+
