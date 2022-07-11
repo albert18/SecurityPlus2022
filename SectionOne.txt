@@ -1,1 +1,8 @@
-3.
+3.Kill chain
+    Reconnaissance
+    Weaponization
+    Delivery
+    Exploitation 
+    Installation
+    Command & Control(C2)
+    
